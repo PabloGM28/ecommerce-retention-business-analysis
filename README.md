@@ -29,7 +29,9 @@ Business-oriented portfolio project to diagnose why a non-luxury fashion e-comme
 ## Current Status
 - [x] Structural retention diagnosis (one-time vs repeat customers)
 - [x] Revenue share by customer type (one-time vs repeat)
-- [ ] Monthly revenue trend analysis
-- [ ] Driver decomposition (customers, frequency, AOV)
+- [x] Monthly revenue trend analysis
+- [x] Revenue quality analysis (return rate)
+- [x] Monthly revenue mix analysis (first vs repeat purchase)
+- [x] Customer lifetime value (LTV) by customer type
 - [ ] Tableau executive dashboard
-- [ ] Final report (ES/EN)
+- [ ] Final project summary (ES/EN)
