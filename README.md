@@ -81,12 +81,6 @@ Improving customer retention could significantly increase long-term value and re
 
 ---
 
-## 📁 Repository Structure
-
-
-
----
-
 ## 📌 Project Status
 
 ✔ Retention analysis (one-time vs repeat)  
