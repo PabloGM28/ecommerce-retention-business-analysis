@@ -60,8 +60,7 @@ The dashboard below summarizes the key findings of the analysis:
 
 ![Dashboard](dashboard/tableau_dashboard.png)
 
-🔗 *(Opcional pero MUY recomendado)*  
-[View interactive dashboard on Tableau Public](AÑADE_TU_LINK_AQUI)
+[View interactive dashboard on Tableau Public]((https://public.tableau.com/views/IsGrowthSustainable-EcommerceAnalysis/Dashboard1?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
 
 ---
 
